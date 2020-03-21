@@ -104,7 +104,8 @@ friends: [
     },{
         title: "weibo",
         href: "https://weibo.com/7416968639/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
-    }#,{
+    }
+    #,{
        # title: "Apple",
      #   href: "https://apple.com"
    # },{
