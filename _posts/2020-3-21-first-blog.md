@@ -4,7 +4,7 @@ title:      My first Blog
 subtitle:   My first Blog
 date:       2020-3-21
 author:     BY
-header-img: img/post-bg-cook.jpg
+header-img: img/c++logo.png
 catalog:    true
 tags:
     - c++
