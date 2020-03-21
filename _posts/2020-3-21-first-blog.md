@@ -12,14 +12,6 @@ tags:
 
 
 
-# 前言
+# 第一篇博客
 
-定时器的使用是软件开发基础技能，用于延时执行或重复执行某些方法。
-
-我相信大部分人接触iOS的定时器都是从这段代码开始的:
-
-```objc
-[NSTimer scheduledTimerWithTimeInterval:1.0 target:self selector:@selector(action:) userInfo:nil repeats:YES]
-```
-
-但是你真的会用吗？
+捣鼓了大半天，终于建立了自己的第一个博客，希望能够在这个博客记录自己的学习过程。
