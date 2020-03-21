@@ -101,10 +101,10 @@ friends: [
     {
         title: "instagram",
         href: "https://www.instagram.com/lrhu_jason/?hl=zh-cn"
+    },{
+        title: "weibo",
+        href: "https://weibo.com/7416968639/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
     }#,{
-       # title: "weibo",
-        #href: "http://www.jianshu.com/u/e71990ada2fd"
-    #},{
        # title: "Apple",
      #   href: "https://apple.com"
    # },{
