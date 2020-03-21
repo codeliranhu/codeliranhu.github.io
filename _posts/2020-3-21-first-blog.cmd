@@ -10,10 +10,16 @@ tags:
     - c++
 ---
 
-# This is my first blog 
 
-I'm very happy, thank you guys.
 
-Best regards
-Liranhu
+# 前言
 
+定时器的使用是软件开发基础技能，用于延时执行或重复执行某些方法。
+
+我相信大部分人接触iOS的定时器都是从这段代码开始的:
+
+```objc
+[NSTimer scheduledTimerWithTimeInterval:1.0 target:self selector:@selector(action:) userInfo:nil repeats:YES]
+```
+
+但是你真的会用吗？
