@@ -69,9 +69,7 @@ kramdown:
   #admin: codeliranhu
  # distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
-117d7e8353618ef5cc61
-Client Secret
-0efdd2a2c096d7a54b706e0660000d56e46ca171
+
 
 <!-- Gitalk 评论 start  -->
 {% if site.gitalk.enable %}
