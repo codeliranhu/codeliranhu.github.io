@@ -10,7 +10,7 @@ tags:
     - c++
 ---
 
-## This is my first blog 
+# This is my first blog 
 
 I'm very happy, thank you guys.
 
