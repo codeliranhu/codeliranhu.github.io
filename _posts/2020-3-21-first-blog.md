@@ -3,7 +3,7 @@ layout:     post
 title:      My first Blog
 subtitle:   My first Blog
 date:       2020-3-21
-author:     BY
+author:     liranhu
 header-img: img/life_index.jpg
 catalog:    true
 tags:
