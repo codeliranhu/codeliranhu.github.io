@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "instagram",
         href: "https://www.instagram.com/lrhu_jason/?hl=zh-cn"
     }
     #,{
