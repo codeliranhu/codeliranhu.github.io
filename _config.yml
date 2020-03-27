@@ -67,6 +67,8 @@ gitalk:
   repo: codeliranhu.github.io    #仓库名称
   owner: codeliranhu    #github用户名
   admin: codeliranhu
+  perPage: 15
+  pagerDirection: last
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
