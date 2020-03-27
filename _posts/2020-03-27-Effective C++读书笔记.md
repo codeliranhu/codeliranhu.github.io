@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      每日一句英语
-subtitle:   每日一句英语
+title:      Effective C++读书笔记
+subtitle:   （一）
 date:       2020-3-27
 author:     liranhu
 header-img: img/simple.jpg
 catalog:    true
 tags:
-    - 英语美句
+    - Effective C++
 ---
 
 条款一：
