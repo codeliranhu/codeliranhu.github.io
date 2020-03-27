@@ -60,16 +60,7 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 117d7e8353618ef5cc61                            #生成的clientID
-  clientSecret: 0efdd2a2c096d7a54b706e0660000d56e46ca171    #生成的clientSecret
-  repo: codeliranhu.github.io    #仓库名称
-  owner: codeliranhu    #github用户名
-  admin: codeliranhu
-  perPage: 15
-  pagerDirection: last
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
 
 gitalk:
     enable: true     # 是否开启评论功能
