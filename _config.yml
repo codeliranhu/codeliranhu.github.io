@@ -63,7 +63,7 @@ kramdown:
 
 
 gitalk:
-    enable: true     # 是否开启评论功能
+    enable: false     # 是否开启评论功能
     clientID: `117d7e8353618ef5cc61`    # 刚才生成的 Client ID
     clientSecret: `0efdd2a2c096d7a54b706e0660000d56e46ca171`    # Client Secret，同上
     repo: `codeliranhu.githu.io`  # 刚才新建的用于保存评论的仓库名
